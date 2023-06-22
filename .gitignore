@@ -1,1 +1,17 @@
+/Tools/GCC/
 /Bin
+*.exe
+*.dll
+*.cache
+*.pdb
+*.o
+*.elf
+*.log
+*.vmx
+*.scoreboard
+*.editorconfig
+.vscode/
+.fleet/
+/**/bin/*
+/**/obj/*
+Tools/VMWare/vmware_mach-*.vmem
