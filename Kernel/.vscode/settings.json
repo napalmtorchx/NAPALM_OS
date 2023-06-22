@@ -1,0 +1,27 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "kernel.h": "c",
+        "string.h": "c",
+        "multiboot.h": "c",
+        "ports.h": "c",
+        "heap.h": "c",
+        "vga.h": "c",
+        "thread.h": "c",
+        "pit.h": "c",
+        "stdio.h": "c",
+        "time.h": "c",
+        "rtc.h": "c",
+        "kbd.h": "c",
+        "commands.h": "c",
+        "cmdhost.h": "c",
+        "virtfs.h": "c",
+        "vm.h": "c",
+        "txtedit.h": "c",
+        "pic.h": "c",
+        "idt.h": "c",
+        "ata.h": "c",
+        "display.h": "c",
+        "math.h": "c"
+    }
+}

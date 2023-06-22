@@ -1,0 +1,9 @@
+%include "stdlib.asm"
+
+%define 
+
+long memblock, 0x00000000
+
+main:
+    mov rs, memblock
+    extcall 
